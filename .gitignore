@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+.vscode
+.idea/
+build
+coverage
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+globalConfig.json
