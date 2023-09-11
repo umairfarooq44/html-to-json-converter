@@ -82,13 +82,13 @@ node build index.html (html file path)
 To use it as library please run
 
 ```sh
-npm install html-to-json-converter
+npm install html-to-json-converter-44
 ```
 
 Then it can be used
 
 ```js
-import { htmlToJson } from 'html-to-json-converter';
+import { htmlToJson } from 'html-to-json-converter-44';
 
 const html = '<div>Hello World</div>';
 const json = htmlToJson(html); // {tag: 'div', text: 'Hello World'}
